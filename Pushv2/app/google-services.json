@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "486992293735",
+    "firebase_url": "https://pushv2-258ff.firebaseio.com",
+    "project_id": "pushv2-258ff",
+    "storage_bucket": "pushv2-258ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486992293735:android:c65ab0807c2f45b5",
+        "android_client_info": {
+          "package_name": "com.example.roderyx.pushv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486992293735-07q07id6g7os2avc1sh0vp0ap7ogv3i2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3vC998SXC859bq_uD-TNCBvh5jC_zRl8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
